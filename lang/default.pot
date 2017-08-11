@@ -1,0 +1,213 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Telegram\n"
+"POT-Creation-Date: 2016-04-22 15:59+0200\n"
+"PO-Revision-Date: 2015-04-20 18:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: settings-page.php:146 simple-telegram.php:121
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: settings-page.php:146
+msgid "Visit the Plugin plage"
+msgstr ""
+
+#: settings-page.php:146
+msgid "Plugin at WordPress Directory"
+msgstr ""
+
+#: settings-page.php:146
+msgid "Changelog"
+msgstr ""
+
+#: settings-page.php:149 simple-telegram.php:125
+msgid "PayPal-Donation"
+msgstr ""
+
+#: settings-page.php:150
+msgid "Amazon Wishlist"
+msgstr ""
+
+#: settings-page.php:161
+msgid ""
+"Simple Telegram isn't active. Please set a admin bot for your Telegram "
+"channel."
+msgstr ""
+
+#: settings-page.php:165
+msgid ""
+"Simple Telegram isn't active. Please fill in the name of your Telegram "
+"channel."
+msgstr ""
+
+#: settings-page.php:169
+msgid ""
+"Simple Telegram isn't active. It seems that your bot token is not correct."
+msgstr ""
+
+#: settings-page.php:178
+msgid "Simple Telegram is active."
+msgstr ""
+
+#: settings-page.php:178
+msgid "Bot info"
+msgstr ""
+
+#: settings-page.php:185
+msgid "Bot token"
+msgstr ""
+
+#: settings-page.php:187
+msgid "Your admin bot for your telegram channel"
+msgstr ""
+
+#: settings-page.php:187
+msgid "Need help?"
+msgstr ""
+
+#: settings-page.php:192
+msgid "Channel Username"
+msgstr ""
+
+#: settings-page.php:194
+msgid "The name of your Telegram channel"
+msgstr ""
+
+#: settings-page.php:199
+msgid "Default for new posts"
+msgstr ""
+
+#: settings-page.php:203
+msgid ""
+"Send new posts automatically to your Telegram channel (checkbox will be "
+"checked by default)"
+msgstr ""
+
+#: settings-page.php:209
+msgid "Message style"
+msgstr ""
+
+#: settings-page.php:212
+msgid "Plain text only"
+msgstr ""
+
+#: settings-page.php:213
+msgid "Show web preview"
+msgstr ""
+
+#: settings-page.php:213
+msgid "Default"
+msgstr ""
+
+#: settings-page.php:214
+msgid "Show featured image"
+msgstr ""
+
+#: settings-page.php:216
+msgid "Style options for the Telegram messages"
+msgstr ""
+
+#: settings-page.php:221
+msgid "Mark updated posts"
+msgstr ""
+
+#: settings-page.php:225
+msgid "Mark re-sent posts with \"UPDATE\" (if you sent updated posts manually)"
+msgstr ""
+
+#: settings-page.php:231
+msgid "Message template"
+msgstr ""
+
+#: settings-page.php:239
+msgid "Supported variables"
+msgstr ""
+
+#: settings-page.php:240
+msgid "The title of the post"
+msgstr ""
+
+#: settings-page.php:241
+msgid "The full url of the post"
+msgstr ""
+
+#: settings-page.php:242
+msgid "The short url of the post (wp.me)"
+msgstr ""
+
+#: settings-page.php:243
+msgid "The excerpt of the post (60 words)"
+msgstr ""
+
+#: settings-page.php:244
+msgid "Hashtagged list with the tags of the post"
+msgstr ""
+
+#: settings-page.php:245
+msgid "Comma-seperated list with the categories of the post"
+msgstr ""
+
+#: settings-page.php:247
+msgid "Supported Markdown"
+msgstr ""
+
+#: settings-page.php:247
+msgid "italic"
+msgstr ""
+
+#: settings-page.php:247
+msgid "underline"
+msgstr ""
+
+#: settings-page.php:247
+msgid "bold"
+msgstr ""
+
+#: settings-page.php:258
+msgid "Save changes"
+msgstr ""
+
+#: simple-telegram.php:95
+msgid "Settings"
+msgstr ""
+
+#: simple-telegram.php:122
+msgid "Plugin page"
+msgstr ""
+
+#: simple-telegram.php:123
+msgid "Rate the plugin"
+msgstr ""
+
+#: simple-telegram.php:124
+msgid "My Amazon Wishlist"
+msgstr ""
+
+#: simple-telegram.php:158
+msgid "To use this plugin requires at least PHP version 5.0 is required."
+msgstr ""
+
+#: simple-telegram.php:371
+msgid "Re-post to Telegram channel"
+msgstr ""
+
+#: simple-telegram.php:373
+msgid "Post to Telegram channel"
+msgstr ""
